@@ -114,7 +114,7 @@ body {
 
 .header__link::before {
   content: "";
-  background-image: url(../img/header-logo.svg);
+  background-image: url(../img/arrow-down-sign-to-navigate\ 1.svg);
   position: absolute;
   width: 37px;
   height: 21px;
@@ -239,16 +239,16 @@ body {
   }
 
   .services__item--code::before {
-      background-image: url(/img/serv-first.svg);
+      background-image: url(/img/code\ icon.svg);
   }
 
   .services__item--cms::before {
-      background-image: url(/img/serv-second.svg);
+      background-image: url(/img/dev\ icon.svg);
       
   }
 
   .services__item--cite::before {
-      background-image: url(/img/serv-third.svg);
+      background-image: url(/img/Group\ \(2\).svg);
   }
 
 .services__item h2 {
